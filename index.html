@@ -16,21 +16,36 @@ layout: default
     </header>
 
     <!-- Main -->
-    <div id="main" data-exif='{{ site.exif }}'>
-        {% for image in site.static_files %}
-        {% if image.path contains 'fulls' %}
-        <article class="thumb">
-            <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
-                <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt=""
-                     data-name="{{ image.name }}"/></a>
-            <!--<h2></h2>
-            <p></p>-->
-        </article>
-        {% endif %}
-        {% endfor %}
-    </div>
+  <!-- Main -->
+  <div id="main" data-exif='{{ site.exif }}'>
+    <!-- Images -->
+    {% for image in site.static_files %}
+    {% if image.path contains 'fulls' %}
+    <article class="thumb">
+      <a href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" class="image">
+        <img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt=""
+             data-name="{{ image.name }}"/></a>
+    </article>
+    {% endif %}
+    {% endfor %}
 
-    <!-- Footer -->
+    <!-- Videos -->
+    {% for video in site.static_files %}
+    {% if video.path contains 'videos' and video.path ends_with '.mp4' %}
+    <article class="thumb">
+      <a href="{{ site.baseurl }}{{ site.video_fulls_loc }}/{{ video.name }}" class="image">
+        <video controls width="100%">
+          <source src="{{ site.baseurl }}{{ site.video_fulls_loc }}/{{ video.name }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </a>
+    </article>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+
+  <!-- Footer -->
     <footer id="footer" class="panel">
         <div class="inner split">
             <div>
