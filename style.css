@@ -238,6 +238,8 @@ body {
   }
 
 .center-div {
+  display: flex;
+  align-items: center;
   text-align: center; /* Specify a width */
   margin: 0 auto; /* Horizontally centers the div */
 }
