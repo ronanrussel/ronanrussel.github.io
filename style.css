@@ -239,8 +239,9 @@ body {
 
 .center-div {
   display: flex;
-  align-items: center;
   justify-content: center;
-  text-align: center; /* Specify a width */
-  margin: 0 auto; /* Horizontally centers the div */
+  align-items: center;
+  height: 100vh; /* Adjust if you want the video vertically centered */
+  margin: 0 auto;
 }
+
