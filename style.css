@@ -236,3 +236,8 @@ body {
     color: white;
     margin: 20px;
   }
+
+.center-div {
+  width: 300px; /* Specify a width */
+  margin: 0 auto; /* Horizontally centers the div */
+}
