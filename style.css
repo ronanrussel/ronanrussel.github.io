@@ -238,6 +238,6 @@ body {
   }
 
 .center-div {
-  width: 300px; /* Specify a width */
+  text-align: center; /* Specify a width */
   margin: 0 auto; /* Horizontally centers the div */
 }
