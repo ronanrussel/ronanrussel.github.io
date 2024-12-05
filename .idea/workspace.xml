@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1fa55-b5e6-4dae-85cf-1ee9b5f811e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-    </list>
+    <list default="true" id="b0f1fa55-b5e6-4dae-85cf-1ee9b5f811e0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
       <recent name="$PROJECT_DIR$/images/thumbs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/videos" />
       <recent name="$PROJECT_DIR$/videos/fulls" />
       <recent name="$PROJECT_DIR$/videos/thumbs" />
       <recent name="$PROJECT_DIR$" />
