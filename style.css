@@ -241,7 +241,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Adjust if you want the video vertically centered */
   margin: 0 auto;
 }
 
