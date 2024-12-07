@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0f1fa55-b5e6-4dae-85cf-1ee9b5f811e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/videos/2019recap1.MP4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videos/2019recap2.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/Roxanne.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnailmy2020.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/videos/thumbnailmy2020.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +53,8 @@
       <recent name="$PROJECT_DIR$/images/thumbs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/videos/fulls" />
       <recent name="$PROJECT_DIR$/videos/thumbs" />
       <recent name="$PROJECT_DIR$/images/fulls" />
