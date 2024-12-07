@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0f1fa55-b5e6-4dae-85cf-1ee9b5f811e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/videos/2019recap1.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/2019recap2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/2019recap1.MP4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/2019recap2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/ate hype vid.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/hoco 2020 video.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/my 2020 final.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/thanksgiving 23.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos/y2mate.com - make me feel...  full tiktok (eunoais version)_prLIxHd3pFU.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/Roxanne.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ronanandal/Documents/GitHub/reelsby-ro/thumbnails&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ronanandal/Documents/GitHub/ronans-archives.github.io/videos&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -54,14 +51,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/thumbs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/videos" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/videos" />
       <recent name="$PROJECT_DIR$/videos/fulls" />
       <recent name="$PROJECT_DIR$/videos/thumbs" />
       <recent name="$PROJECT_DIR$/images/fulls" />
