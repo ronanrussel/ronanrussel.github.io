@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ronanandal/Documents/GitHub/ronans-archives.github.io/thumbnails",
+    "last_opened_file_path": "/Users/ronanandal/Documents/GitHub/ronans-archives.github.io/videos",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
@@ -45,17 +45,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/thumbs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$/videos" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/videos/fulls" />
       <recent name="$PROJECT_DIR$/videos/thumbs" />
-      <recent name="$PROJECT_DIR$/images/fulls" />
     </key>
   </component>
   <component name="RunManager">
