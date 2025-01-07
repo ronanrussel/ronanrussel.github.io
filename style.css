@@ -245,18 +245,3 @@ body {
   margin: 0 auto;
 }
 
-.center-div {
-  display: flex; /* Ensures the parent container behaves like a flex container */
-  justify-content: center; /* Centers the row horizontally within the container */
-}
-
-.row {
-  display: flex; /* Sets children (videos) to align horizontally */
-  flex-direction: row; /* Explicitly ensures row layout (default for flex) */
-  gap: 20px; /* Adds space between the videos */
-}
-
-.video-item {
-  flex-shrink: 0; /* Prevents the videos from shrinking */
-  width: 230px; /* Ensures the videos maintain their specified width */
-}
