@@ -246,20 +246,17 @@ body {
 }
 
 .center-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
+  display: flex; /* Ensures the parent container behaves like a flex container */
+  justify-content: center; /* Centers the row horizontally within the container */
 }
 
 .row {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 10px; /* Add space between videos */
+  display: flex; /* Sets children (videos) to align horizontally */
+  flex-direction: row; /* Explicitly ensures row layout (default for flex) */
+  gap: 20px; /* Adds space between the videos */
 }
 
 .video-item {
-  flex: 1; /* Allow videos to grow or shrink dynamically */
-  max-width: 100%; /* Ensure they don't exceed their container */
-  min-width: 200px; /* Set a minimum size to prevent them from shrinking too much */
+  flex-shrink: 0; /* Prevents the videos from shrinking */
+  width: 230px; /* Ensures the videos maintain their specified width */
 }
