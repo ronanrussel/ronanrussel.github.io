@@ -12,12 +12,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.2/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -35,26 +39,29 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ronanandal/Documents/GitHub/reelsby-ro/thumbnails&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ronanandal/Documents/GitHub/ronans-archives.github.io/videos&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/thumbs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thumbnails" />
       <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/videos/fulls" />
       <recent name="$PROJECT_DIR$/videos/thumbs" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images/fulls" />
     </key>
   </component>
   <component name="RunManager">
